@@ -1,0 +1,24 @@
+<employees>
+	<employee1>
+		<id>1</id>
+		<address>H# 38, R#3, Banani, Dhaka</address>
+		<department>sales</department> 
+		<salary>20000</salary>
+    </employee1>
+
+    <employee2>
+		<id>2</id>
+		<address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+		<department>accounts</department> 
+		<salary>12000</salary>
+    </employee2>
+
+     <employee3>
+		<id>3</id>
+		<address></address>
+		<department>H# 38, R#3, Motijheel</department> 
+		<salary>30000</salary>
+    </employee3>
+
+    
+</employees>
